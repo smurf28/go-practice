@@ -1,0 +1,1 @@
+go test  -gcflags '-m -l' test/mem_test.go -v -count=1
